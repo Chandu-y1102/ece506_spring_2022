@@ -1,5 +1,5 @@
 # ece506_spring_2022
-Project for ECE 506 : Architecture of Parallel Computer
+Projects for ECE 506 : Architecture of Parallel Computer
 Associated with North Carolina State UniversityAssociated with North Carolina State University
 
 
