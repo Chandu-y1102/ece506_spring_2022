@@ -1,0 +1,8 @@
+14,16c14,16
+< 6 . number of writebacks:                 0
+< 7 . number of memory transactions:        255
+< 8 . number of cache-to-cache transfers:   4
+---
+> 6 . number of writebacks:                 2
+> 7 . number of memory transactions:        256
+> 8 . number of cache-to-cache transfers:   2
